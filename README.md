@@ -9,6 +9,7 @@
 我也在寻找同道中人，共同学习和进步。
 
 可以通过发邮件到develepersummer@outlook.com联系到我。
+提建议，请发Issue到[Project Manager Chinese Community](https://github.com/projectmanagercc/projectmanagercc.github.io)
 
 Blog
 
