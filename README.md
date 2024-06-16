@@ -13,3 +13,4 @@
 Blog
 
 - [用户故事是怎么来的？](userstory.md)
+- [用户故事是怎么来的？](storypoints.md)
