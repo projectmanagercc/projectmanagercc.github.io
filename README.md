@@ -13,7 +13,7 @@ Blog
 
 - [用户故事是怎么来的？](userstory.md)
 - [故事点估算可信吗？](storypoints.md)
-
+- [60年前发生的软件危机现在怎么样了？](softwarecrisisNowAndThen.md)
 
 可以通过发邮件到develepersummer@outlook.com联系到我。
 
