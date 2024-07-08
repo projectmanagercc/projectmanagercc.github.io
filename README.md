@@ -10,7 +10,7 @@
 
 
 Blog
-
+- [不要轻易声称自己敏捷了](agilefake.md)
 - [用户故事是怎么来的？](userstory.md)
 - [故事点估算可信吗？](storypoints.md)
 - [60年前发生的软件危机现在怎么样了？](softwarecrisisNowAndThen.md)
