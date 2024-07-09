@@ -10,6 +10,7 @@
 
 
 Blog
+- [不要污名化瀑布流](waterfall.md)
 - [不要轻易声称自己敏捷了](agilefake.md)
 - [用户故事是怎么来的？](userstory.md)
 - [故事点估算可信吗？](storypoints.md)
