@@ -10,6 +10,7 @@
 
 
 Blog
+- [瀑布为项目带来节奏感](waterfall2.md)
 - [不要污名化瀑布流](waterfall.md)
 - [不要轻易声称自己敏捷了](agilefake.md)
 - [用户故事是怎么来的？](userstory.md)
